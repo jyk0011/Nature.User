@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Nature.User.ManageUser">
+    <Position X="1.25" Y="3.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIIQAAgAAAAACAAAAEAAAAgBAAAAAgAAACAAA=</HashCode>
+      <FileName>ManageUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.User.BaseUserInfo">
+    <Position X="9.25" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>QBQAAAAAAAAAgAAAAIAoAAgAAAgAAAAAAQAEAAAAAAA=</HashCode>
+      <FileName>BaseUserInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.User.BaseUserPermission">
+    <Position X="9.25" Y="6.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQASAIgAQAAAAAAAAAQAAAAAACAQBAAAAAACABAAQA=</HashCode>
+      <FileName>BaseUserPermission.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.User.UserOnlineInfo">
+    <Position X="6" Y="3.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAAAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>UserOnlineInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>
